@@ -21,13 +21,13 @@ I aim to leverage my unique combination of data analysis and full-stack developm
   - SQL: Data extraction, CRUD operations, MySQL.
   - JavaScript: Interactive front-end elements in dashboards.
 - **Business Intelligence Tools**:
-  - Tableau (including dashboards and KPIs), SAP Analytics Cloud, Microsoft Excel (advanced functions and analysis).
+  - Tableau (including dashboards and KPIs), SAP Analytics Cloud, Microsoft Power Apps (advanced functions and analysis).
 - **ERP & CRM Systems**:
   - SAP, Salesforce.
 - **Web Development**:
   - HTML, CSS, JavaScript, Flask for serving web applications, Bootstrap for responsive design.
 - **AI Tools**:
-  - GitHub Copilot, ChatGPT for coding assistance, automation, brainstorming, and enhancing productivity.
+  - GitHub Copilot, ChatGPT for coding assistance, and Python-based task automation for streamlining repetitive processes, along with facilitating brainstorming and enhancing productivity.
 - **Systems Analysis & Design**:
   - Agile methodologies, requirements gathering, system modeling, workflow design.
 - **Advanced Data Visualization**:
